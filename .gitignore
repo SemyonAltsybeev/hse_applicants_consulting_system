@@ -1,0 +1,5 @@
+**/venv/
+public/
+**/__pycache__/
+**/temp*.py
+**/.env
