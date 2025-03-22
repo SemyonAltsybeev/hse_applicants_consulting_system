@@ -3,3 +3,4 @@ public/
 **/__pycache__/
 **/temp*.py
 **/.env
+pages/
